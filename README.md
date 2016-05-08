@@ -5,3 +5,4 @@ This repository contains all the code for the OOP in TypeScript series, publishe
 1. `git checkout Part_1-Types`
 2. `git checkout Part_2A-Using_Classes_and_Interfaces`
 3. `git checkout Part_2B-OOP_Design_Principles`
+4. `git checkout Part_3-Type_Inference_and_Compatibility`
